@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ca1</string>
+    <string name="lpu_university">LPU University</string>
+    <string name="student_profile">STUDENT PROFILE</string>
+    <string name="rajesh_kumar">RAJESH KUMAR</string>
+    <string name="reg_no">S1234667</string>
+    <string name="email">Email : rajeshkumar@lpu.in</string>
+    <string name="phoneNo">Phone : +91 1234567890</string>
+    <string name="log_out">Log Out</string>
+    <string name="year">Year: 3rd</string>
+</resources>
